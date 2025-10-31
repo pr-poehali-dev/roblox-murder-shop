@@ -7,7 +7,7 @@ export const products: Product[] = [
     price: 2500,
     rarity: 'godly',
     category: 'knife',
-    image: '/placeholder.svg',
+    image: 'https://cdn.poehali.dev/projects/9c8fccd9-fa3c-41f9-81e7-5bd4ef8f2d7b/files/5ec35f24-fe99-4fb8-8f53-ad915a22a641.jpg',
     description: 'Легендарный нож с призматическим эффектом',
   },
   {
@@ -16,7 +16,7 @@ export const products: Product[] = [
     price: 3200,
     rarity: 'godly',
     category: 'gun',
-    image: '/placeholder.svg',
+    image: 'https://cdn.poehali.dev/projects/9c8fccd9-fa3c-41f9-81e7-5bd4ef8f2d7b/files/1fe911f5-810e-4526-ad44-e4172cccd769.jpg',
     description: 'Редкий пистолет Luger с хромированным покрытием',
   },
   {
@@ -25,7 +25,7 @@ export const products: Product[] = [
     price: 1800,
     rarity: 'legendary',
     category: 'knife',
-    image: '/placeholder.svg',
+    image: 'https://cdn.poehali.dev/projects/9c8fccd9-fa3c-41f9-81e7-5bd4ef8f2d7b/files/09758b0f-ff25-4e52-a69c-4d3b1bbe4d49.jpg',
     description: 'Ледяной дракон - мощный легендарный нож',
   },
   {
@@ -34,7 +34,7 @@ export const products: Product[] = [
     price: 1500,
     rarity: 'legendary',
     category: 'knife',
-    image: '/placeholder.svg',
+    image: 'https://cdn.poehali.dev/projects/9c8fccd9-fa3c-41f9-81e7-5bd4ef8f2d7b/files/64bbedec-ff4c-46e8-9652-d72d7a2e59dc.jpg',
     description: 'Острый клык с уникальным дизайном',
   },
   {
@@ -43,7 +43,7 @@ export const products: Product[] = [
     price: 1200,
     rarity: 'legendary',
     category: 'gun',
-    image: '/placeholder.svg',
+    image: 'https://cdn.poehali.dev/projects/9c8fccd9-fa3c-41f9-81e7-5bd4ef8f2d7b/files/736afda8-814e-4c13-aeac-9d2a9f26ebfe.jpg',
     description: 'Футуристическое лазерное оружие',
   },
   {
@@ -52,7 +52,7 @@ export const products: Product[] = [
     price: 800,
     rarity: 'rare',
     category: 'knife',
-    image: '/placeholder.svg',
+    image: 'https://cdn.poehali.dev/projects/9c8fccd9-fa3c-41f9-81e7-5bd4ef8f2d7b/files/0d123ef8-1dea-4d2a-9c09-d51c2d8590c5.jpg',
     description: 'Огненный нож с пламенным эффектом',
   },
   {
@@ -61,7 +61,7 @@ export const products: Product[] = [
     price: 600,
     rarity: 'rare',
     category: 'gun',
-    image: '/placeholder.svg',
+    image: 'https://cdn.poehali.dev/projects/9c8fccd9-fa3c-41f9-81e7-5bd4ef8f2d7b/files/bfb213b3-b4a5-4747-a56a-04361a14ff65.jpg',
     description: 'Элитный синий пистолет',
   },
   {
@@ -70,7 +70,7 @@ export const products: Product[] = [
     price: 450,
     rarity: 'rare',
     category: 'knife',
-    image: '/placeholder.svg',
+    image: 'https://cdn.poehali.dev/projects/9c8fccd9-fa3c-41f9-81e7-5bd4ef8f2d7b/files/b4d38072-f3f0-41a0-bcc9-adefe313da95.jpg',
     description: 'Нож с паучьим узором',
   },
   {
@@ -79,7 +79,7 @@ export const products: Product[] = [
     price: 200,
     rarity: 'common',
     category: 'gun',
-    image: '/placeholder.svg',
+    image: 'https://cdn.poehali.dev/projects/9c8fccd9-fa3c-41f9-81e7-5bd4ef8f2d7b/files/1eeb2ffb-499c-40a1-8475-6fb2bc7a3b56.jpg',
     description: 'Стимпанк револьвер',
   },
   {
@@ -88,7 +88,7 @@ export const products: Product[] = [
     price: 150,
     rarity: 'common',
     category: 'knife',
-    image: '/placeholder.svg',
+    image: 'https://cdn.poehali.dev/projects/9c8fccd9-fa3c-41f9-81e7-5bd4ef8f2d7b/files/50874e0a-e2bb-4531-98eb-e46a364ff643.jpg',
     description: 'Космический нож Nebula',
   },
 ];
